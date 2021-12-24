@@ -3,6 +3,7 @@
 😄 Interests
  - Machine Learning & Deep Learing
  - NLP(Natural Language Processing)
+ - 
 
 :busts_in_silhouette: Activities
  - Google Developer Group - Member
