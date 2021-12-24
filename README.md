@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+|Name|Type|Date|Rank|
 |---|---|---|---|
 |**[Ego-Vision Hand Gesture Recognition AI Contest (DACON)](https://github.com/Kitsunetic/dacon-hand-gesture-public.git)**|ComputerVision|Oct.2021|3/290, Win|
 |**[뉴스 토픽 분류 AI 경진대회 (DACON)](https://dacon.io/competitions/official/235747/codeshare/3072)**|NLP|Jun.2021|3/256, Win|
