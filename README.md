@@ -13,6 +13,9 @@
  - 딥러닝 자연어처리 기술을 활용한 ITB 검토 모델 개발
 
 🚩 Competition
+ - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
+ - Dacon Gold Tier:trophy:, Competition Ranking Top0.4% ('21.12.24기준)
+
 |Name|Type|Rank|
 |---|---|---|
 |**[가스공급량 수요예측 모델개발(DACON)](https://dacon.io/competitions/official/235830/overview/description)**|Tubular, TimeSeries|3rd/259, Win:trophy:|
