@@ -3,7 +3,7 @@
 😄 Interests
  - Machine Learning & Deep Learing
  - NLP(Natural Language Processing)
- - Safety
+ - Occupational Safety and Health
 
 
 :busts_in_silhouette: Activities
