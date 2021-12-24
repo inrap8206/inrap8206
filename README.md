@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚩 **Competition**
+🚩 *Competition*
 |Name|Type|Rank|
 |---|---|---|
 |**[가스공급량 수요예측 모델개발(DACON)](https://dacon.io/competitions/official/235830/overview/description)**|Tubular, TimeSeries|3rd/259, Win:trophy:|
