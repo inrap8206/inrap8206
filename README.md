@@ -8,8 +8,9 @@
 
 
 :busts_in_silhouette: Activities
- - Google Developer Group - Member
  - POSCO E&C Machine Learning Club - Organizer
+ - Google Developer Group - Member
+ - Songdo AI Study - Member
 
 
 :file_folder: Project
