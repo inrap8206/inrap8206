@@ -1,4 +1,4 @@
-### Woocheol Cho (Dacon: 인디고)
+### Woocheol Cho (Dacon - 인디고)
 
 😄 Interests
  - Machine Learning & Deep Learing
