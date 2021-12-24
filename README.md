@@ -5,16 +5,19 @@
  - NLP(Natural Language Processing)
  - Safety
 
+
 :busts_in_silhouette: Activities
  - Google Developer Group - Member
  - POSCO E&C Machine Learning Club - Organizer
 
+
 :file_folder: Project
  - 딥러닝 자연어처리 기술을 활용한 ITB 검토 모델 개발
 
+
 🚩 Competition
  - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
- - Dacon Gold Tier:trophy:, Competition Ranking Top0.4% ('21.12.24기준)
+ - Dacon Gold Tier:trophy:, Competition Ranking Top 0.4% ('21.12.24기준)
 
 |Name|Type|Rank|
 |---|---|---|
