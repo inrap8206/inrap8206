@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+😄interests
+ - Machine Learning & Deep Learing (TensorFlow & Pytorch)
+ - NLP(Natural Language Processing)
+
+
+
 <!--
 **inrap8206/inrap8206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
