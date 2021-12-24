@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-😄interests
- - Machine Learning & Deep Learing (TensorFlow & Pytorch)
+😄 Interests
+ - Machine Learning & Deep Learing
  - NLP(Natural Language Processing)
 
-
+:busts_in_silhouette: Activities
+ - Google Developer Group - Member
+ - POSCO E&C Machine Learning Club - Organizer
 
 <!--
 **inrap8206/inrap8206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚩 *Competition*
+🚩 Competition
 |Name|Type|Rank|
 |---|---|---|
 |**[가스공급량 수요예측 모델개발(DACON)](https://dacon.io/competitions/official/235830/overview/description)**|Tubular, TimeSeries|3rd/259, Win:trophy:|
