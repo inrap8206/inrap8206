@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🚩 Competition
 |Name|Type|Rank|
 |---|---|---|
-|**[가스공급량 수요예측 모델개발(DACON)](https://dacon.io/competitions/official/235830/overview/description)**|Tubular, TimeSeries|3rd/259, Win|
+|**[가스공급량 수요예측 모델개발(DACON)](https://dacon.io/competitions/official/235830/overview/description)**|Tubular, TimeSeries|3rd/259, Win:trophy:|
 |**[2021 소방안전 AI 예측 경진대회(Data Science Lab)]**|Tabular, Geography|3rd/39, Win|
 |**[2021 빅데이터 통신 플랫폼 경진대회(DACON)](https://dacon.io/competitions/official/235753/overview/description)**|Analitic Visualization|3rd/36, Win|
 |**[AI기반 회의 녹취록 요약 경진대회(DACON)](https://dacon.io/competitions/official/235813/overview/description)**|NLP|60/430, Top14%|
