@@ -3,7 +3,6 @@
 😄 Interests
  - Machine Learning & Deep Learing
  - NLP(Natural Language Processing)
- - Occupational Safety and Health
  - Stock Investment
 
 
