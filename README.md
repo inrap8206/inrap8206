@@ -32,4 +32,12 @@
 |**[작물 병해 분류 AI 경진대회(DACON)](https://dacon.io/competitions/official/235842/overview/description)**|Vision|39/170, Top23%|
 |**[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회(DACON)](https://dacon.io/competitions/official/235757/overview/description)**|TaPR|69/220, Top23%|
 
+
+📜 Licenses & certifications
+ - TensorFlow Developer Certificate
+ - IBM Data Science Professional
+ - 빅데이터분석기사
+ - ADsP(Advanced Data Analytics Semi-Professional)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inrap8206)
