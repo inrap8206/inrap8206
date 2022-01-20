@@ -13,7 +13,8 @@
 
 
 :file_folder: Project
- - 딥러닝 자연어처리 기술을 활용한 ITB 검토 모델 개발
+ - 딥러닝 자연어처리 기술을 활용한 ITB 검토 모델
+ - 사업내용 기반 유사 주식종목 검색 모델
 
 
 🚩 Competition
