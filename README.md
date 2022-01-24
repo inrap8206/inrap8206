@@ -1,7 +1,7 @@
 ### Woocheol Cho (인디고)
 
 😄 Interests
- - Machine Learning & Deep Learing
+ - Machine Learning & Deep Learning
  - NLP(Natural Language Processing)
  - Stock Investment
 
