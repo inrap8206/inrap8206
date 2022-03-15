@@ -19,13 +19,14 @@
 
 🚩 Competition
  - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
- - Dacon Gold Tier🏅, Competition Ranking Top 0.4% ('21.12.24)
+ - Dacon Gold Tier🏅, Competition Ranking Top 0.28% ('22.3.15)
 
 |Name|Type|Performance|Rank|
 |---|---|---|---|
 |**[가스공급량 수요예측 모델개발(한국가스공사)](https://dacon.io/competitions/official/235830/overview/description)**|Tabular, TimeSeries|:trophy:한국가스공사장상|3rd/259|
 |**2021 소방안전 AI 예측 경진대회(강원도)**|Tabular, Geography|:trophy:강원도지사상|3rd/87|
 |**[2021 빅데이터 통신 플랫폼 경진대회(KT)](https://dacon.io/competitions/official/235753/overview/description)**|Analysis Visualization|:trophy:빅데이터협회장상|3rd/36|
+|**[한국어 문장 관계 분류대회(Dacon)](https://dacon.io/competitions/official/235875/overview/description)**|NLP|Top9%|43/468|
 |**[AI기반 회의 녹취록 요약 경진대회(LG)](https://dacon.io/competitions/official/235813/overview/description)**|NLP|Top14%|60/430|
 |**[주식 종료가격 예측 경진대회(국토교통부)](https://dacon.io/competitions/official/235857/overview/description)**|Tabular, TimeSeries|Top15%|31/205|
 |**[자연어 기반 기후기술분류 AI경진대회(녹색기술센터)](https://dacon.io/competitions/official/235744/overview/description)**|NLP|Top16%|40/177|
