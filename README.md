@@ -18,8 +18,9 @@
 
 
 🚩 Competition
- - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
  - Dacon Gold Tier🏅, Competition Ranking Top 0.28% ('22.3.15)
+ - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
+
 
 |Name|Type|Performance|Rank|
 |---|---|---|---|
