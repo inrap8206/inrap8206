@@ -18,7 +18,7 @@
 
 
 🚩 Competition
- - Dacon Gold Tier🏅, Competition Ranking Top 0.28% ('22.3.30)
+ - Dacon Gold Tier🏅, Competition Ranking Top 0.28% ('22.4.19)
  - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
 
 
