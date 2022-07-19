@@ -37,7 +37,8 @@
 |**[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회(국가정보원)](https://dacon.io/competitions/official/235757/overview/description)**|TaPR|Top23%|69/220|
 
 
-📜 Licenses & certifications
+📜 Education & Certificate
+ - POSTECH AI Specialist Program ('22.3 ~ '22.7)
  - TensorFlow Developer Certificate
  - IBM Data Science Professional
  - 빅데이터분석기사
