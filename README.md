@@ -3,6 +3,7 @@
 😄 Interests
  - Machine Learning & Deep Learning
  - NLP(Natural Language Processing)
+ - Computer Vision
  - Stock Investment
 
 
