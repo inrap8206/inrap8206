@@ -24,7 +24,6 @@
 
 🚩 Competition
  - [Dacon Gold Tier🏅, Competition Ranking 32th/58,802 ('22.7.20)](https://dacon.io/myprofile/413586/competition)
- - 취미로 인공지능 대회 (dacon, kaggle) 참가합니다
 
 
 |Name|Type|Performance|Rank|
