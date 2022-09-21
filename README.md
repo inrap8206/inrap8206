@@ -23,7 +23,7 @@
 
 
 🚩 Competition
- - [Dacon Gold Tier🏅, Competition Ranking 32th/58,802 ('22.7.20)](https://dacon.io/myprofile/413586/competition)
+ - [Dacon Gold Tier🏅, Competition Ranking Top 0.28%, 32th/58,802 ('22.7.20)](https://dacon.io/myprofile/413586/competition)
 
 
 |Name|Type|Performance|Rank|
