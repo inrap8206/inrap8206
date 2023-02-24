@@ -50,6 +50,7 @@
  - 빅데이터분석기사
  - ADsP(Advanced Data Analytics Semi-Professional)
  - 부스트코스 Data Science 스터디 8기
+ - 부스트코스 AI Basic 스터디 9기
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inrap8206)
