@@ -25,7 +25,7 @@
 
 🚩 Competition
  - Dacon Gold Tier🏅, Top 0.28% Competition Ranker, 32th/58,802 ('22.7.20)
-![image](https://user-images.githubusercontent.com/59816572/225495188-7fcf3500-7078-4bc7-a418-e1eac8c67fa2.png)
+![image](https://user-images.githubusercontent.com/59816572/225495419-c65e3fe7-7ae4-450c-81ec-9d122c0c8b28.png)
  - Award Performance:
 
 |Name|Type|Performance|Rank|
