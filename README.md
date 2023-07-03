@@ -11,7 +11,7 @@
  - POSCO E&C AI Club - Organizer
  - Google Developer Group
  - Songdo AI Study Group
- - [4대 미래성장산업 육성 컨퍼런스 AI.DA 강연](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
+ - [4대 미래성장산업 육성 컨퍼런스 AI.DA '건설산업 AI' 강연](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
  - [FastAPI를 사용한 파이썬 웹개발 베타리더](https://product.kyobobook.co.kr/detail/S000201188332)
 
 :file_folder: Project
