@@ -11,8 +11,7 @@
  - POSCO E&C AI Club - Organizer
  - Google Developer Group
  - Songdo AI Study Group
- - [4대 미래성장산업 육성 컨퍼런스 AI.DA '건설산업 AI' 강연](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
- - [FastAPI를 사용한 파이썬 웹개발 베타리더](https://product.kyobobook.co.kr/detail/S000201188332)
+
 
 :file_folder: Project
  - 딥러닝 자연어처리 기술을 활용한 계약문서 검토 모델
@@ -53,6 +52,9 @@
  - ADsP(Advanced Data Analytics Semi-Professional)
  - 부스트코스 Data Science 스터디 8기
  - 부스트코스 AI Basic 스터디 9기
- 
+
+Others
+ - [4대 미래성장산업 육성 컨퍼런스 AI.DA '건설산업 AI' 강연](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
+ - [FastAPI를 사용한 파이썬 웹개발 베타리더](https://product.kyobobook.co.kr/detail/S000201188332)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inrap8206)
