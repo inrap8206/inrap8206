@@ -4,6 +4,7 @@
  - Machine Learning & Deep Learning
  - NLP(Natural Language Processing)
  - Computer Vision
+ - Reading Books
  - Stock Investment
 
 
@@ -14,6 +15,7 @@
 
 
 :file_folder: Project
+ - LLM 기반 문서 검토 솔루션 개발
  - 딥러닝 자연어처리 기술을 활용한 계약문서 검토 모델
  - 공사수행 협력사 Risk 조기 예측 모델
  - 결재문서 텍스트 데이터 분석 및 시각화
