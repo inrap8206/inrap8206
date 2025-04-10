@@ -1,7 +1,7 @@
 ### Woocheol Cho (인디고)
 
 
-AI Researcher
+#### AI Researcher
 
  - LLM(Large Language Model)
  - RAG(Retrieval-Augmented Generation)
