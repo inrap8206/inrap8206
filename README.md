@@ -16,21 +16,37 @@ AI Researcher
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woocheol.cho@gmail.com)](mailto:woocheol.cho@gmail.com)
 
 
+#### Career
+
+- POSCO E&C AI Researcher - AI 응용 기술 개발, AI 기술 개발 전략 수립, LLM Computer Vision, ML/DL
+- POSCO E&C AI Club - Organizer
+- Google Developer Group
+- Songdo AI Study Group
+
+
+#### Project
+
+- [LLM 기반 문서 검토 솔루션 개발](https://youtu.be/63wy8nIUJkg?feature=shared)
+- 딥러닝 자연어처리 기술을 활용한 계약문서 검토 모델 개발
+- [공동주택 외벽 균열 검출 모델 개발](https://www.posco-inc.com:4453/poscoinc/v4/kor/advertise/s91e5000100v.jsp?onPage=1&topic=&startDate=&endDate=&searchType=&searchValue=&idx=1187)
+- 공사수행 협력사 Risk 조기 예측 모델 개발
+- 결재문서 텍스트 데이터 분석 및 시각화
+- 안전보호구 착용여부 감지 모델 개발
+- 건설현장 자재 식별 모델 개발
+- 사업내용 기반 유사 주식종목 검색 모델 개발
+
+
+#### Publications
+
+- WHAT, WHEN, and HOW to Ground: De
+
+
 :busts_in_silhouette: Activities
  - POSCO E&C AI Club - Organizer
  - Google Developer Group
  - Songdo AI Study Group
 
 
-:file_folder: Project
- - LLM 기반 문서 검토 솔루션 개발
- - 딥러닝 자연어처리 기술을 활용한 계약문서 검토 모델
- - 공사수행 협력사 Risk 조기 예측 모델
- - 결재문서 텍스트 데이터 분석 및 시각화
- - 안전보호구 착용여부 감지 모델
- - 건설현장 자재 식별 모델
- - 업무 특성을 고려한 부서별 적정 MBTI 매칭 모델
- - 사업내용 기반 유사 주식종목 검색 모델
 
 
 🚩 Competition
