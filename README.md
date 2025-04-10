@@ -48,7 +48,7 @@
 - AI 기술을 적용한 건설관리, 건설 실무 아카데미, 2025
 - AOAI 활용 계약문서 검토 시스템 구축 사례, 마이크로소프트 제조산업을 위한 Azure 세미나, 2024
 - [LLM 기반 계약문서 검토 솔루션 개발 사례, 마이크로소프트 AI Transformation Week, 2024](https://youtu.be/63wy8nIUJkg?feature=shared)
-- AI기술을 활용한 계약관리 고도화, 대한건축학회&한국건설관리학회, 2024
+- [AI기술을 활용한 계약관리 고도화, 대한건축학회&한국건설관리학회, 2024](https://www.kicem.or.kr/board/?_0000_method=view&ncode=b0001&num=656)
 - Advanced RAG Technique, 서강대 AI/SW 대학원, 2023
 - [건설산업 AI, 4대 미래성장산업 육성 컨퍼런스 AI.DA, 2022](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
 
