@@ -26,7 +26,7 @@
 
 #### Project
 
-- [LLM 기반 문서 검토 솔루션 개발](https://youtu.be/63wy8nIUJkg?feature=shared)
+- [LLM 기반 문서 검토 솔루션 개발](https://newsroom.posco.com/kr/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B4%EC%95%A4%EC%94%A8-ai%EB%A1%9C-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%A0%95%ED%99%95%ED%95%98%EA%B2%8C-%EC%9E%85%EC%B0%B0-%EB%AC%B8%EC%84%9C-%EA%B2%80%ED%86%A0%ED%95%98/)
 - 딥러닝 자연어처리 기술을 활용한 계약문서 검토 모델 개발
 - [공동주택 외벽 균열 검출 모델 개발](https://www.posco-inc.com:4453/poscoinc/v4/kor/advertise/s91e5000100v.jsp?onPage=1&topic=&startDate=&endDate=&searchType=&searchValue=&idx=1187)
 - 공사수행 협력사 Risk 조기 예측 모델 개발
@@ -38,14 +38,19 @@
 
 #### Publications
 
-- WHAT, WHEN, and HOW to Ground: De
+- LLM 엔지니어링, 한빛미디어, 2025
+- LLM 기반 입찰 계약 문서 검토 솔루션 개발, 한국건설관리학회, 2025
 
 
-:busts_in_silhouette: Activities
- - POSCO E&C AI Club - Organizer
- - Google Developer Group
- - Songdo AI Study Group
+#### Talks
 
+- Gen AI가 이끄는 건설업 AI Transformation, GEN AI Seoul, 2025
+- AI 기술을 적용한 건설관리, 건설 실무 아카데미, 2025
+- AOAI 활용 계약문서 검토 시스템 구축 사례, 마이크로소프트 제조산업을 위한 Azure 세미나, 2024
+- [LLM 기반 계약문서 검토 솔루션 개발 사례, 마이크로소프트 AI Transformation Week, 2024](https://youtu.be/63wy8nIUJkg?feature=shared)
+- AI기술을 활용한 계약관리 고도화, 대한건축학회&한국건설관리학회, 2024
+- Advanced RAG Technique, 서강대 AI/SW 대학원, 2023
+- [건설산업 AI, 4대 미래성장산업 육성 컨퍼런스 AI.DA, 2022](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
 
 
 
