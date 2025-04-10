@@ -18,7 +18,7 @@
 
 #### Career
 
-- POSCO E&C AI Researcher - AI 응용 기술 개발, LLM/Computer Vision/ML/DL 모델 개발, AI 기술 개발 전략 수립, 
+- POSCO E&C AI Researcher - AI 응용 솔루션 개발, LLM/Computer Vision/ML/DL 모델 개발, AI 기술 개발 전략 수립, 
 - POSCO E&C AI Club - Organizer
 - Google Developer Group
 - Songdo AI Study Group
