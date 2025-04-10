@@ -67,8 +67,9 @@
 
 
 #### Education & Certificate
- - POSTECH AI Specialist Program ('22.3 ~ '22.7)
- - TensorFlow Developer Certificate
- - IBM Data Science Professional
- - 빅데이터분석기사
- - ADsP(Advanced Data Analytics Semi-Professional)
+- Master’s Degree in Artificial Intelligence at Sogang University
+- POSTECH AI Specialist Program
+- TensorFlow Developer Certificate
+- IBM Data Science Professional
+- 빅데이터분석기사
+- ADsP(Advanced Data Analytics Semi-Professional)
