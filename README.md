@@ -3,10 +3,9 @@
 
 #### AI Researcher
 
- - LLM(Large Language Model)
- - RAG(Retrieval-Augmented Generation)
- - LLM Agent
- - GenAI
+ - LLM(Large Language Model), RAG(Retrieval-Augmented Generation), LLM Agent
+ - Gen AI
+ - Physical AI, Robot
  - Computer Vision
  - Industrial AI
 
