@@ -12,7 +12,7 @@ AI Researcher
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woocheolcho/)](https://www.linkedin.com/in/woocheolcho/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/woocheol.cho)](https://www.facebook.com/woocheol.cho)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://aiforeveryone.tistory.com/)](https://aiforeveryone.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&link=https://aiforeveryone.tistory.com/)](https://aiforeveryone.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woocheol.cho@gmail.com)](mailto:woocheol.cho@gmail.com)
 
 
