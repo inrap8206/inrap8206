@@ -52,6 +52,7 @@
 - [Why I Use LlamaIndex, 한빛앤, 2024](https://youtu.be/1VTrcTtuNec?feature=shared)
 - Advanced RAG Technique, 서강대 AI/SW 대학원, 2023
 - [건설산업 AI, 4대 미래성장산업 육성 컨퍼런스 AI.DA, 2022](https://ccei.creativekorea.or.kr/seoul/custom/notice_view.do?no=26174&div_code=&rnum=1533&pn=16&kind=my&sPtime=now&sMenuType=&pagePerContents=8&cmntySeqNum=&menuSeqNum=&storyList=&sdate=&edate=&title=&contents=)
+- 비전공자 직장인에서 AI 연구원까지, Google Developer Group Songdo, 2022
 
 
 #### Awards
