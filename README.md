@@ -56,7 +56,7 @@
 
 #### Awards
 
-- POSCO Group WX Hackathon, CTO상(2nd), 2024 
+- POSCO Group WX Hackathon, CTO상, 2024 
 - POSCO E&C R&D Award, 장려상, 2024
 - POSTECH AI Project 경진대회, POSTECH 총장상, 2022
 - 가스공급량 수요예측 모델 개발 대회, 한국가스공사장상, 2021
