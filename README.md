@@ -69,7 +69,7 @@
 
 #### Education & Certificate
 - Master’s Degree in Artificial Intelligence at Sogang University
-- POSTECH AI Specialist Program
+- Artificial Intelligence Professional Program at POSTECH
 - TensorFlow Developer Certificate
 - IBM Data Science Professional
 - 빅데이터분석기사
