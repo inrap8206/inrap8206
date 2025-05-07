@@ -36,7 +36,7 @@
 
 #### Publications
 
-- LLM 엔지니어링, 한빛미디어, 2025
+- [LLM 엔지니어링, 한빛미디어, 2025](https://product.kyobobook.co.kr/detail/S000216392817)
 - LLM 기반 입찰 계약 문서 검토 솔루션 개발, 한국건설관리학회, 2025
 
 
